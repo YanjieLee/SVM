@@ -34,8 +34,8 @@ URL = "http://mlr.cs.umass.edu/ml/machine-learning-databases/spambase/spambase.d
 
 # Uncomment this call when using matplotlib to generate images
 # rather than displaying interactive UI.
-import matplotlib
-matplotlib.use('Agg')
+#import matplotlib
+#matplotlib.use('Agg')
 
 from pandas import read_table
 import numpy as np
